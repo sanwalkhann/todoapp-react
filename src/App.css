@@ -1,0 +1,25 @@
+/* CSS file */
+
+.containerStyle {
+  max-width: 400px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.inputStyle {
+  padding: 8px;
+  margin-right: 4px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  width: 60%;
+}
+
+.buttonStyle {
+  padding: 8px;
+  border-radius: 4px;
+  background: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-left: 6px;
+}
